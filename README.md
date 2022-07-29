@@ -1,4 +1,4 @@
 - Hi, I’m @GROSANIA
-- I’m interested in space exploration but first i need to get the money that's why I'm working on neew app
-- I’m currently learning how to make blockchain, game , web also app. 
-not exactly know where this all goin but at least i try my best. 
+- I’m the founder and owner of Deltra Technology Development or called "DeltraTech"
+- the current main goal is to make commercial cloud server that is more cheaper but reliable.
+- developing cloudserver, app, games, and rocket's
