@@ -1,4 +1,3 @@
 - Hi, I’m @GROSANIA
 - I’m the founder and owner of Deltra Technology Development or called "DeltraTech"
-- the current main goal is to make commercial cloud server that is more cheaper but reliable.
-- developing cloudserver, app, games, and rocket's
+  also the Axvetio Company founder and owner.
