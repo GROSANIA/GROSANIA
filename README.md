@@ -1,3 +1,2 @@
-- Hi, I’m @GROSANIA
-- I’m the founder and owner of Delctra
-- A Programmer, Animator, Editor, and Engineering Enthusiast
+- Hi! I'am Nura
+- I'm a Programmer, Animator, Editor, also being an Engineering Enthusiast!
