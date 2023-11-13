@@ -1,2 +1,2 @@
-- Hi! I'am Nura
+- Hi! I'am Nhura
 - I'm a Programmer, Animator, Editor, also being an Engineering Enthusiast!
